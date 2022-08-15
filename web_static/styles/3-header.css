@@ -1,0 +1,13 @@
+header {
+	height: 70px;
+	width: 100%;
+	border-bottom: 1px solid #CCCCCC;
+	vertical-align: middle;
+	text-align: left;
+}
+.img {
+	margin-left: 20px;
+	width: 140px;
+	height: 60px;
+	background-image: url(../images/logo.png);
+}
